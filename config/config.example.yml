@@ -1,0 +1,13 @@
+name: YtArchiver
+version: 0.1
+
+apikey:
+  youtube: this api key
+
+youtube:
+  audio: AUDIO_QUALITY_MEDIUM
+  height: 720
+  mimetype: mp4
+
+# save method local || drive (WIP)
+save: local
